@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "740836972070",
+    "firebase_url": "https://happyfamily-3695f.firebaseio.com",
+    "project_id": "happyfamily-3695f",
+    "storage_bucket": "happyfamily-3695f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740836972070:android:b612c96734937d2b8178e7",
+        "android_client_info": {
+          "package_name": "com.example.happyfamily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740836972070-h7j9a04qa4luv4418f8u9rv23p4avdem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.happyfamily",
+            "certificate_hash": "d4b4423d17820a2b18efa02da29d986743343179"
+          }
+        },
+        {
+          "client_id": "740836972070-hnsq8er2vtuln5fp61csno6nfvi3ed2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl2F6QOJrtvCTk2sLkz_6gBGdwxf9v0rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740836972070-hnsq8er2vtuln5fp61csno6nfvi3ed2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
