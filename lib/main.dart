@@ -6,7 +6,6 @@ void main() => runApp(MaterialApp(
   initialRoute: '/',
   routes: {
     '/': (context) => Landing(),
-    '/loading': (context) => Loading(),
   },
 
 ));

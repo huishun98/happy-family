@@ -35,7 +35,8 @@ class AuthService {
       idToken: googleAuth.idToken,
     );
     FirebaseUser user = (await _auth.signInWithCredential(credential)).user;
-    print("user is: " + user.displayName);
+//    print("user is: " + user.displayName);
+
     updateUserData(user);
     loading.add(false);
     return user;
